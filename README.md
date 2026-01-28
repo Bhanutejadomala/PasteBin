@@ -1,7 +1,7 @@
 # PasteBin
 
 
-frotend --> npm start 
+frontend --> npm start 
 
 
 backend --> node server.js
